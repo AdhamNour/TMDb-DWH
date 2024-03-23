@@ -14,12 +14,6 @@
 				"home": "mysql_client",
 				"type": "dev",
 				"closeIdleConnection": true,
-				"properties": {
-					"connectTimeout": "20000",
-					"rewriteBatchedStatements": "true",
-					"enabledTLSProtocols": "TLSv1,TLSv1.1,TLSv1.2,TLSv1.3",
-					"allowPublicKeyRetrieval": "TRUE"
-				},
 				"auth-model": "native"
 			}
 		}
